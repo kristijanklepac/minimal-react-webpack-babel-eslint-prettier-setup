@@ -15,11 +15,6 @@ This is a minimal setup for a React project running with Webpack, ESLint (airbnb
 
 1. Download the project and cd into it:
 
-   ```bash
-   git clone https://github.com/junagao/minimal-react-webpack-babel-eslint-prettier-setup.git
-   cd minimal-react-webpack-babel-eslint-prettier-setup
-   ```
-
 2. Install dependencies and run the application:
 
    ```bash
